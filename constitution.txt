@@ -62,9 +62,8 @@ they may rely on a person’s profession of faith, or such other evidence, as th
 deem appropriate.
 
 Section 2 – Admission of Members
-To be admitted into church membership, applicants shall be ordinarily, but not
-necessarily, recommended by the elders for admission and must be accepted by vote of
-the members at any regular or special meeting of the members, and shall at that point
+To be admitted into church membership, applicants shall be recommended by the elders for admission and must be accepted by vote of
+the members at any regular corporate worship meeting, and shall at that point
 relinquish their membership in other churches.
 
 Section 3 – Duties and Privileges of Membership
@@ -78,7 +77,7 @@ church for purposes of administration and professional consultation.
 Under Christ this congregation is governed by its members. Therefore, it is the
 privilege and responsibility of members to attend members’ meetings and vote on the
 election of officers, on decisions regarding membership status, and on such other matters
-as may be submitted to a vote.
+as may be submitted to a vote.  Minimum voting age shall be 16 years of age at the date of the vote.
 
 Section 4 – On Church Discipline
 Any member consistently neglectful of his or her duties or guilty of conduct by
@@ -129,8 +128,8 @@ process of church discipline, or for any other biblical reason.
 
 Article 4 - Meetings
 
-Section 1 – Worship Meetings
-Worship services shall be held each Lord's Day, and may be held throughout the
+Section 1 – Corporate Worship Meetings
+Corporate worship services shall be held each Lord's Day, and may be held throughout the
 week as the church determines.
 
 
@@ -138,15 +137,12 @@ Section 2 – Members’ Meetings
 In every meeting together, members shall act in that spirit of mutual trust,
 openness, and loving consideration which is appropriate within the body of our Lord
 Jesus Christ.
-There shall be a regular members’ meeting at least every other month, at some
-time apart from a public worship service agreed upon by the membership.
+There shall be a regular members’ meeting at least quarterly through the calendar year, at some
+time apart from a corporate worship service as recommended by the elders.  Members' Meetings may follow a corporate worship service, but is not to coincide with the service.
 An elder designated by the elders shall preside as moderator at all members’
 meetings of the church. The elders shall see that the stated meetings of the church are
 regularly held and that required reports are submitted to the church by the responsible
 members.
-Provided all constitutional provisions for notification have been met, a quorum
-shall be understood to be met by those members present. All votes shall be tallied based
-on the number of votes cast by members present.
 A budget shall be approved by the membership at a members’ meeting not more
 than three months after the start of the fiscal year. Congregational approval shall
 proceed, without amendment, as a single vote on the budget in its entirety. Prior to this
@@ -158,15 +154,17 @@ Special members' meetings may be called as required by the elders, or at the
 written request, submitted to the elders, of five percent of the voting membership.
 Ordinarily, a special meeting will be called with at least two-weeks' notice. The location,
 date, time, and purpose of any special meeting shall be announced at all public services
-of the church and posted at all entrances to the church building within the two weeks
+of the church and electronically communicated within the two weeks
 preceding the meeting or for as much time as is available if a meeting must be called with
 fewer than two-weeks' notice. In the event of a written request from the members, the
 elders shall call a special meeting to be held within one month of their receipt of the
 request. In situations where the elders call a special members meeting with fewer than
 two-weeks’ notice, an email shall be sent to all church members with email addresses on
-file indicating the location, date, time, and purpose of the meeting. When an email
-address is not on file, a physical letter shall be sent. No meeting shall be called with
+file indicating the location, date, time, and purpose of the meeting. No meeting shall be called with
 fewer than 48 hours’ notice.
+Provided all constitutional provisions for notification have been met, a quorum
+shall be understood to be met by those members present. All votes shall be tallied based
+on the number of votes cast by members present.
 
 Article 5 – Officers
 
@@ -176,10 +174,10 @@ recognizes the administrative positions under this constitution of clerk and tre
 officers must be members of this church prior to assuming their responsibilities.
 
 Section 2 – Elders
-The elders shall be comprised of not less than three men who satisfy the
+The elders shall be comprised of not less than two men who satisfy the
 qualifications for the office of elder set forth in I Timothy 3: 1–7 and Titus 1: 6–9. No
-elder shall hold the office of deacon during his tenure.
-
+elder shall hold the office of deacon during his tenure.  
+This church recognizes that the terms "elder," "pastor," and "overseer" as used in Scripture are synonymous and refer to different roles of the same office herein referred to as "Elder." 
 Subject to the will of the congregation, the elders shall oversee the ministry and
 resources of the church. In keeping with the principles set forth in Acts 6: 1–6 and I
 Peter 5: 1–4, the elders shall devote their time to prayer, the ministry of the Word (by
@@ -199,7 +197,7 @@ members at any members’ meeting of the church.
 The elders shall take particular responsibility to examine and instruct prospective
 members, examine and recommend all prospective candidates for offices and positions,
 oversee the work of the deacons and appointed church agents and committees, conduct
-worship services, administer the ordinances of baptism and communion, equip the
+worship services, oversee the ordinances of baptism and communion, equip the
 membership for the work of the ministry, encourage sound doctrine and practice,
 admonish and correct error, oversee the process of church discipline, coordinate and
 promote the ministries of the church, and mobilize the church for world missions.
@@ -208,8 +206,8 @@ congregation, including outside speakers, affirm our fundamental gospel convicti
 do not teach our church anything contrary to the Statement of Faith.
 The elders may establish ministry positions or committees to assist them in
 fulfilling their responsibilities. The elders may also propose funding for new paid staff
-positions. The membership shall approve all candidates to fill the positions of senior and
-associate pastor. The scope and approval of job descriptions for any staff position shall
+positions. The membership shall approve all candidates to fill the position of vocational or staff
+pastor. The scope and approval of job descriptions for any staff position shall
 reside in the hands of those with hiring authority for that position.
 Each year the elders, after consultation with the deacons, the deaconesses, and the
 membership, shall present to the church an itemized budget. This budget shall be
@@ -218,10 +216,10 @@ a vote at the following members’ meeting. No money shall be solicited by or on
 of the church or any of its ministries without the approval of the elders.
 The elders shall elect a chairman of elders’ meetings and shall also elect one of
 their number to serve as moderator of members’ meetings. For purposes of compliance
-with the nonprofit corporation laws of the District of Columbia, the elders shall elect one
+with the nonprofit corporation laws of South Carolina, the elders shall annually elect one
 of their number to serve as the president of the corporation.
 
-Section 3 – The Senior Pastor
+Section 3 – Vocational/Staff Elders
 The senior pastor shall be an elder. He shall perform the duties of an elder
 described in Section 2, above, and shall be recognized by the church as particularly gifted
 and called to the full-time ministry of preaching and teaching.
@@ -293,7 +291,7 @@ recognize, in accordance with the constitutional provisions on elections, men an
 who are giving of themselves in service to the church, and who possess particular gifts of
 service. In keeping with the principles set forth in Acts 6:1-6, these members shall be
 received as gifts of Christ to His church and set apart as deacons and deaconesses. They
-shall be elected to one term lasting for a maximum of three years and may only be elected
+shall be elected to two terms lasting for a maximum of two years each term and may only be elected
 to another term after one year.
 Deacons and deaconesses shall care for the temporal needs of members, attend to
 the accommodations for public worship, and encourage and support those able to help
@@ -302,7 +300,7 @@ The elders, with assistance from the deacons and deaconesses shall receive, hold
 and disburse a fund for benevolence, reporting on its use to the elders at their request, and
 reporting to the church its total receipts and total disbursements only.
 The deacons and deaconesses, with the agreement of the elders, may establish
-unpaid administrative positions or committees of members to assist them in fulfilling
+teams of volunteer members to assist them in fulfilling
 their responsibilities in the church.
 
 Section 9 – Clerk
@@ -313,8 +311,7 @@ The clerk, who shall be a member in good standing, shall be nominated by the
 elders and elected by the congregation to serve a term of three years.
 In the absence or incapacity of the clerk, the elders shall appoint a member to
 perform the duties of the church clerk.
-For purposes of compliance with the nonprofit corporation laws of the District of
-Columbia, the clerk shall serve as the secretary of the corporation.
+For purposes of compliance with the nonprofit corporation laws of South Carolina, the clerk shall serve as the secretary of the corporation.
 The church clerk shall ensure that dated copies of the most recent revision of this
 constitution shall be available for all church members.
 
@@ -350,17 +347,17 @@ The election process shall express that spirit of mutual trust, openness, and lo
 consideration that is appropriate within the body of our Lord Jesus Christ.
 
 Section 2 – Selection of Officers
-The election of officers shall be held at a members’ meeting of the church.
-Names of nominees to serve as elders, deacons, deaconesses, clerk, or treasurer shall be
-presented by the elders at the previous members’ meeting (providing that previous
-meeting occurred at least eight weeks prior), and the election shall proceed as directed by
-the moderator.
+The election of officers shall be held at a members’ meeting of the church as defined in Article 4 Section 2. 
 The elders should seek recommendations and involvement from the general
 membership in the nomination process. Any member with reason to believe that a
 nominated candidate is unqualified for an office should express such concern to the
 elders. Members intending to speak in opposition to a candidate should express their
 objection to the elders as far in advance as possible before the relevant church members’
 meeting.
+Names of nominees to serve as elders, deacons, deaconesses, clerk, or treasurer shall be
+presented by the elders at the previous members’ meeting (providing that the previous
+meeting occurred at least eight weeks prior), and the election shall proceed as directed by
+the moderator.
 The moderator shall declare elected all men receiving a two-thirds majority of all
 votes cast for the office of elder at a regularly-scheduled members meeting. For all other
 offices, the moderator shall declare elected all persons receiving a simple majority of all
@@ -369,7 +366,7 @@ votes cast; abstentions will not be considered as votes cast.
 The persons elected shall assume their respective offices upon election, unless
 another date has been specifically designated.
 
-Section 3 – Calling of the Senior Pastor
+Section 3 – Calling of Staff Elders
 In the calling of any man to this position, the same basic process of calling an
 elder must be followed. In addition, however, the church must be given adequate
 opportunity to assess the preaching gifts of any potential senior pastor and, before being
@@ -380,23 +377,15 @@ elected to membership and called as senior pastor (which shall include, if neces
 election to membership of his wife if he is married) must be given at two Sunday
 morning services following the nomination, prior to the vote at a members’ meeting.
 
-Section 4 – Calling of Associate Pastor
+Section 4 – Calling of Non-Staff Elders
 In the calling of any man to the position of associate pastor, the same basic
 process of calling an elder must be followed. In addition, however, the church must be
 given adequate opportunity to assess the preaching gifts of any potential associate pastor
 and, before being asked to express its judgment, must receive assurance from the elders
 that, having interviewed the man concerned, they are in no doubt as to his wholehearted
 assent to the Statement of Faith and Church Covenant. Notice of the nomination of a
-man to be called as associate pastor (which shall include, if necessary, election to
-membership of him and his wife if he is married) must be given at two Sunday morning
+man to be called as a lay elder must be given at two Sunday morning
 services following the nomination, prior to the vote at a members’ meeting.
-
-Section 5 – Calling of Assistant Pastor
-The calling of any man to the position of assistant pastor requires that that man
-have been recognized and called by the congregation to the office of elder, according to
-the process described in Article 6, Section 2. Such a man may then be called by the
-elders to serve as assistant pastor with defined duties for a fixed period of time specified
-by the elders in the terms of his call.
 
 Article 7 – Indemnification
 
@@ -424,7 +413,7 @@ Article 8 – Dispute Resolution
 
 Believing that the Bible commands Christians to make every effort to live at
 peace and to resolve disputes with each other in private or within the Christian Church
-(see, e.g., Matthew 18: 15–20, I Corinthians 6: 1–8), the church shall require its members
+(e.g., Matthew 18: 15–20, I Corinthians 6: 1–8), the church shall require its members
 to resolve ordinary civil disputes among themselves according to biblically based
 principles, without reliance on the secular courts. In the case of criminal activity within
 the congregation, the State has a God-given responsibility to protect the peace and
@@ -457,7 +446,7 @@ Article 11 – Dissolution
 
 
 In the event that the elders of the church determine that there is reasonable cause to
-dissolve the Capitol Hill Baptist Church as a corporate entity, the elders shall recommend
+dissolve Mount Tabor Baptist Church as a corporate entity, the elders shall recommend
 dissolution to the membership. The elders shall call a special members’ meeting as set
 out in Article 4, Section 2. Notice of the meeting shall be sent in writing to the
 membership and posted at all entrances to the church building no less than sixty days
