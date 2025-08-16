@@ -8,7 +8,7 @@ Clemson, S.C.
 Pending adoption by the membership
 
 
-
+<preamble>
 Preamble
 
 Since it pleased Almighty God, by His Holy Spirit, to call certain of His servants
@@ -25,11 +25,15 @@ Constitution as our articles of governance, to be interpreted at all times to re
 character of and bring glory to Jesus Christ, as revealed in the Holy Bible and articulated
 in the standards set forth in the Statement of Faith (1878) and Covenant (1996) of this
 church.
-
-Article 1 – Name
-
-The name of this church is: Mount Tabor Baptist Church of Clemson, Pickens County, South Carolina. The Church will do business as The Mount Church
-
+</preamble>
+<articles>
+    <article number="1" name="Name">
+        <name>Article 1 – Name</name>
+        <body>
+        The name of this church is: Mount Tabor Baptist Church of Clemson, Pickens County, South Carolina. The Church will do business as The Mount Church
+        </body>
+    </article>
+<article>
 Article 2 – Purpose
 This church exists to display the glory of God's grace in Jesus Christ by proclaiming Him to all peoples for their everlasting joy in God.
 This church glorifies God by loving Him and obeying His commands through:
@@ -64,7 +68,7 @@ Finally, we will commend embracing His commission by prayerfully:
     Providing ministries of mercy (Gal 6:10, etc).
     Partnering with other Gospel churches (Rom 16:26; 1 Cor 16:19, etc).
     Raising up cross-cultural missionaries (Acts 1:4-8, etc).
-
+</article>
 
 Article 3 – Membership
 
@@ -505,4 +509,5 @@ which are in agreement with the letter and spirit of the Statement of Faith. Any
 assets not so disposed of shall be disposed of exclusively for such exempt purposes by a
 court of competent jurisdiction where the principal office of the corporation is then
 located.
+</articles>
 </constitution>
