@@ -8,7 +8,7 @@ Clemson, S.C.
 Pending adoption by the membership
 
 
-
+<preamble>
 Preamble
 
 Since it pleased Almighty God, by His Holy Spirit, to call certain of His servants
@@ -25,11 +25,15 @@ Constitution as our articles of governance, to be interpreted at all times to re
 character of and bring glory to Jesus Christ, as revealed in the Holy Bible and articulated
 in the standards set forth in the Statement of Faith (2021) and Covenant (2021) of this
 church.
-
-Article 1 – Name
-
-The name of this church is: Mount Tabor Baptist Church of Clemson, Pickens County, South Carolina. The Church will do business as The Mount Church
-
+</preamble>
+<articles>
+    <article number="1" name="Name">
+        <name>Article 1 – Name</name>
+        <body>
+        The name of this church is: Mount Tabor Baptist Church of Clemson, Pickens County, South Carolina. The Church will do business as The Mount Church
+        </body>
+    </article>
+<article>
 Article 2 – Purpose
 This church exists to display the glory of God's grace in Jesus Christ by proclaiming Him to all peoples for their everlasting joy in God.
 This church glorifies God by loving Him and obeying His commands through:
@@ -64,7 +68,7 @@ Finally, we will commend embracing His commission by prayerfully:
     Providing ministries of mercy (Gal 6:10, etc).
     Partnering with other Gospel churches (Rom 16:26; 1 Cor 16:19, etc).
     Raising up cross-cultural missionaries (Acts 1:4-8, etc).
-
+</article>
 
 Article 3 – Membership
 
@@ -454,4 +458,7 @@ Article 11 – Dissolution
 Being organized and incorporated, Mount Tabor Baptist Church operates as a non-profit, tax-exempt organization under the United States Internal Revenue Code. In the event of dissolution of Mount Tabor Baptist Church, the assets thereof shall be liquidated and distributed for payment of all outstanding debts and obligations; remaining assets shall be distributed to the _______________________ for the purpose of Kingdom work.
 No church assets shall be distributed to any member, officer, or staff of The Mount Church or any other individual.
 
+
+</articles>
 </constitution>
+
