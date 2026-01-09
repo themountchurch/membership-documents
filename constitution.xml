@@ -33,7 +33,7 @@ church.
         The name of this church is: Mount Tabor Baptist Church of Clemson, Pickens County, South Carolina. The Church will do business as The Mount Church
         </body>
     </article>
-    <article>
+    <article number="2" name="Purpose">
 Article 2 – Purpose
 This church exists to display the glory of God's grace in Jesus Christ by proclaiming Him to all peoples for their everlasting joy in God.
 This church glorifies God by loving Him and obeying His commands through:
@@ -69,7 +69,7 @@ Finally, we will commend embracing His commission by prayerfully:
     Partnering with other Gospel churches (Rom 16:26; 1 Cor 16:19, etc).
     Raising up cross-cultural missionaries (Acts 1:4-8, etc).
     </article>
-
+    <article number="3" name="Membership">
 Article 3 – Membership
 
 Section 1 – Qualifications
@@ -150,7 +150,7 @@ recommendation of the elders) upon the vote of at least two-thirds of the member
 present at any regular or special meeting of the members.
 [Any member who left while under discipline, shall be on a probationary status should they return to membership.]
     </article>
-    <article number="4"name="Meetings">
+    <article number="4" name="Meetings">
 Article 4 - Meetings
 
 Section 1 – Corporate Worship Meetings
