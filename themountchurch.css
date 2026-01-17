@@ -1,5 +1,6 @@
 constitution {
     display: block;
+    width: 1024px;
 }
 title {
     display: block;
@@ -63,14 +64,29 @@ section name {
     font-weight: bold;
 }
 
+section block {
+    display: block;
+    padding-bottom: 6px;
+}
+
 statement {
     display: inline;
 }
 
 ul {
 }
+
 ul li {
     display: list-item;
 list-style: disc outside none;
 margin-left: 2em;
+}
+
+flag {
+    font-weight: bold;
+    color: red;
+}
+
+em {
+    font-style: italic;
 }
