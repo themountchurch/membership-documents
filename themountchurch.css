@@ -1,6 +1,76 @@
 constitution {
     display: block;
 }
+title {
+    display: block;
+    padding-bottom: 12px;
+}
+title line {
+    display: block;
+    text-align: center;
+}
+
+history {
+    display: block;
+    padding-bottom: 12px;
+}
+
+history entry {
+    display: block;
+    text-align: center;
+}
+
+
 preamble {
     display: block;
+    padding-bottom: 12px;
+}
+preamble name {
+    display: block;
+    padding-bottom: 6px;
+    font-weight: bold;
+    text-align: center;
+}
+
+articles {
+    display: block; 
+}
+
+article {
+    display: block;
+    padding-bottom: 12px;
+}
+
+article name {
+    display: block;
+    padding-bottom: 6px;
+    font-weight: bold;
+    text-align: center;
+}
+
+sections {
+    display: block;
+}
+
+section {
+    display: block;
+    padding-bottom: 6px;
+}
+
+section name {
+    display: block;
+    padding-bottom: 6px;
+    font-weight: bold;
+}
+
+statement {
+    display: inline;
+}
+
+ul {
+}
+ul li {
+    display: list-item;
+list-style: disc outside none;
+margin-left: 2em;
 }
